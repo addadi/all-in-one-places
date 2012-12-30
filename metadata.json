@@ -1,0 +1,11 @@
+{
+    "uuid": "all-in-one-places@addadi",
+    "name": "All-in-one Places",
+    "description": "All-in-one quick navigation to places and devices with a few extra configuration options to customize and change the look and feel of the extension.",
+    "url": "http://jferrao.github.com/gtk",
+    "shell-version": [
+        "3.4",
+        "3.6"
+    ],
+    "version": "3.0"
+}
